@@ -1,0 +1,10 @@
+{
+	"name": "salcode/genesis-last-modified-post-info",
+	"description": "A WordPress plugin for Genesis to replaced \"Published Date\" with \"Last Updated Date\"",
+	"type": "wordpress-plugin",
+	"homepage": "https://github.com/salcode/genesis-last-modified-post-info",
+	"license": "GPL-2.0+",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
